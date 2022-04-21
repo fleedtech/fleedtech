@@ -1,0 +1,5 @@
+- 👋 Hi, we are @fleedtech
+- 👀 We are interested in Software development and Graphics Design.
+- 🌱 We are currently developing a Productivity Dashboard named "Fleed Center"
+- 💞️ We are looking to collaborate on Files Management and NoSQL Database Design
+- 📫 How to reach me info@fleedtech.com
